@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#cont1{
+    width: 1440px;
+    height: 60px;
+    display: flex;
+    align-items: flex-end;
+    background-color:green;
+
+}
+#titulo{
+    width: 450px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    letter-spacing: 15px;
+    text-align: center;
+
+}
+
+#botones{
+    width: 990px;
+    height: 60px;
+    background-color:#666666;
+    align-content: space-around;
+    justify-content: right;
+    display: flex;
+}
+#Lateral{
+    width: 450px;
+    height: 720px;
+    background-color:orange;
+    text-align: center;
+    color: white;
+    font-size:22px;
+
+}
+.linea {
+    border-bottom: 1px solid white;
+    height: 60px;
+    max-width: 350px;
+    padding-top: 25px;
+    margin: 1px auto 0 auto;
+
+}
+#Dashboard{
+    width: 990px;
+    height: 722px;
+
+    display: flex;
+    margin-top: -722px;
+    margin-left: 450px;
+    color: black;
+    font-size: 15px;
+    font-weight: lighter;
+    letter-spacing: 10px;
+
+}
+.Caja1{
+    width: 900px;
+    height:60px ;
+    border:grey solid 1px;
+    background-color: white;
+    margin-top: 25px;
+    margin-left: -95px;
+}
+.bandeja{
+    width: 200px;
+    height:80px ;
+    border:grey solid 1px;
+    background-color: white;
+    font-family: cursive;
+    font-size: 15px;
+    color:black;
+}
+#vistas{
+    margin-top: 100px;
+    margin-left: -902px;
+}
+#ventas{
+    margin-top: 100px;
+    margin-left: 32px;
+}
+#coment{
+    margin-top: 100px;
+    margin-left: 32px;
+}
+#visita{
+    margin-top: 100px;
+    margin-left: 32px;
+}
+.Caja6 {
+    width: 360px;
+    height: 200px ;
+    border:grey solid 1px;
+    background-color: white;
+    margin-top: -522px;
+    margin-left: 512px;
+}
+.Caja7{
+    width: 510px;
+    height: 200px ;
+    border:grey solid 1px;
+    background-color:white;
+    margin-top: -200px;
+    margin-left: 900px;
+}
+.Caja8{
+    width: 600px;
+    height: 200px ;
+    border:grey solid 1px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 512px;
+}
+.Caja9{
+    width: 275px;
+    height: 200px ;
+    border:grey solid 1px;
+    background-color: white;
+    margin-top: -200px;
+    margin-left: 1130px;
+}
+p{
+    color: black;
+    font-family: cursive;
+    font-size: 10px;
+    margin-left: 510px;
+    margin-top: 65px;
+}
+a{
+    color:white;
+}
